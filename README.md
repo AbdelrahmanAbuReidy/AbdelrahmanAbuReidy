@@ -1,18 +1,67 @@
-# 💫 About Me:
-## Hi there 👋<br><br>I'm Abdelrahman — a Computer Science (Data Analytics) enthusiast  <br>I build data-driven solutions and experiment with AI systems  <br><br>🚀 Currently exploring:<br>- Machine Learning & NLP<br>- Data Visualization (Power BI, Superset)<br>- Backend systems & APIs<br><br>💡 Always learning, always building
+# Hi, I'm Abdelrahman 👋
 
+**AI/Software Engineer & Data Analyst** based in Kuala Lumpur, Malaysia.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ABDELRAHMAN ABUREIDY](https://www.linkedin.com/in/abdelrahman-abu-reidy-53856b2a8/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.rahman.reidy@gmail.com) 
+I build production AI and data systems — retrieval-augmented generation, LLM integrations, agentic assistants and the backend underneath them — on a multi-tenant SaaS platform. I came into engineering through data analytics, so I care about both ends: turning business data into answers, and shipping those answers into software people actually use.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbdelrahmanAbuReidy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbdelrahmanAbuReidy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAbuReidy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 Currently building AI features for a multi-tenant legal-tech SaaS (Django, PostgreSQL/pgvector, Next.js, AWS)
+- 🧠 Focus areas: RAG, LLM evaluation, document AI/OCR, data pipelines, analytics & BI
+- 🎓 BSc (Hons) Computer Science (Data Analytics) — Asia Pacific University & De Montfort University
+- 📫 [a.rahman.reidy@gmail.com](mailto:a.rahman.reidy@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdelrahman-abu-reidy-53856b2a8/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbdelrahmanAbuReidy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Featured work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Lawyer Buddy — case study**](https://github.com/AbdelrahmanAbuReidy/lawyer-buddy-case-study) | AI legal-practice management SaaS: RAG, document AI, agentic assistants | Django · pgvector · OpenAI/Gemini · Next.js · AWS |
+| [**Real-Time Sentiment & Emotion Analysis**](https://github.com/AbdelrahmanAbuReidy/Sentiment-Emotion-Detection-System) | Deployed NLP web app with live chat classification | Python · scikit-learn · spaCy · Flask-SocketIO · PostgreSQL |
+| [**COVID-19 Chest X-Ray Classification**](https://github.com/AbdelrahmanAbuReidy/Deep-Learning-COVID-Xray-Classification) | CNN vs RNN/GRU vs AlexNet with Bayesian hyperparameter tuning — 86.9% test accuracy | TensorFlow · Keras · Keras Tuner |
+| [**Real-Time Actuator Control System**](https://github.com/AbdelrahmanAbuReidy/Rust-Real-Time-Actuator-Control-System) | Soft real-time robotic-arm control: priority scheduling, PID, deadline monitoring | Rust · Tokio · RabbitMQ · Criterion |
+| [**Fusion Bikes BI System**](https://github.com/AbdelrahmanAbuReidy/Fusion-Bikes-BI-System) | Data warehouse, OLAP cube, MDX measures and executive dashboards | SQL Server · SSAS · MDX · Power BI |
+| [**Secure Medical Database**](https://github.com/AbdelrahmanAbuReidy/medical-center-database-protection-auditing-encryption) | RBAC, AES-256 encryption, masking, row-level security, auditing, backup & recovery | SQL Server · T-SQL |
+| [**Grocery Sales Forecasting**](https://github.com/AbdelrahmanAbuReidy/Grocery-Sales-Forecasting-SAS) | Neural networks, regression and tree models benchmarked into a champion ensemble | SAS Enterprise Miner |
+| [**Netflix Consumer Behaviour Analysis**](https://github.com/AbdelrahmanAbuReidy/Netflix-Consumer-Behaviour-Analysis) | Funnel, competitor and GA4 conversion analysis | Google Analytics 4 · SimilarWeb |
+
+---
+
+### 🛠️ Tech stack
+
+**AI & ML**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+
+**Backend & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Frontend, Cloud & Tools**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Analytics & BI**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0766D1?style=flat-square&logoColor=white)
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAbuReidy&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top languages" />
