@@ -1,4 +1,4 @@
-![Abdelrahman Abureidy — Data Scientist & Analyst building AI systems](assets/banner.png)
+![Abdelrahman Abureidy, Data Scientist & Analyst building AI systems](assets/banner.png)
 
 ## 🙋🏻‍♂️ About Me
 
@@ -74,5 +74,5 @@ Welcome! My detailed project portfolio, business questions, methods, findings an
 
 I'm always happy to talk about data, AI, or an interesting problem.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-abu-reidy-53856b2a8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-abureidy-53856b2a8/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.rahman.reidy@gmail.com)
