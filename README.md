@@ -4,12 +4,12 @@
 
 I'm a **Data Scientist & Analyst** who builds **AI systems**, with the software engineering to ship them end to end.
 
-My degree is in Computer Science (Data Analytics) and I came into engineering through data — SQL, dimensional modelling, dashboards and forecasting. Today I work as an AI/Software Engineer on a multi-tenant SaaS platform, which means I get to do both: find the answer in the data, then build the system that delivers it to the people who need it.
+My degree is in Computer Science (Data Analytics) and I came into engineering through data, SQL, dimensional modelling, dashboards and forecasting. Today I work as an AI/Software Engineer on a multi-tenant SaaS platform, which means I get to do both: find the answer in the data, then build the system that delivers it to the people who need it.
 
 - 🔭 **Currently** — building AI features on a multi-tenant SaaS platform (Django · PostgreSQL · Next.js · AWS)
 - 🎓 **BSc (Hons) Computer Science, Data Analytics** — Asia Pacific University & De Montfort University
 - 🌏 **Based in** Kuala Lumpur, Malaysia (GMT+8)
-- 💬 **Ask me about** turning a business question into a query, a dashboard, or a model — and knowing which one it needed
+- 💬 **Ask me about** turning a business question into a query, a dashboard, or a model and knowing which one it needed
 
 ## 🧭 What I Work On
 
@@ -22,11 +22,11 @@ My degree is in Computer Science (Data Analytics) and I came into engineering th
 | Statistical analysis & forecasting | Document AI & OCR pipelines |
 | Web & product analytics (GA4, funnels, cohorts) | REST APIs, multi-tenant backends, cloud deployment |
 
-The overlap between those two columns is where I'm most useful — the answer still has to be *right*, not just generated.
+The overlap between those two columns is where I'm most useful, the answer still has to be *right*, not just generated.
 
 ## 📊 Portfolio
 
-Welcome! My detailed project portfolio — business questions, methods, findings and recommendations — lives here:
+Welcome! My detailed project portfolio, business questions, methods, findings and recommendations, lives here:
 
 ### 👉 **[Abdelrahman's Portfolio](https://github.com/AbdelrahmanAbuReidy/Portfolio)**
 
