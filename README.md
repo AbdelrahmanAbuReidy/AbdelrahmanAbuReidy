@@ -6,8 +6,8 @@ I'm a **Data Scientist & Analyst** who builds **AI systems**, with the software 
 
 My degree is in Computer Science (Data Analytics) and I came into engineering through data, SQL, dimensional modelling, dashboards and forecasting. Today I work as an AI/Software Engineer on a multi-tenant SaaS platform, which means I get to do both: find the answer in the data, then build the system that delivers it to the people who need it.
 
-- 🔭 **Currently** — building AI features on a multi-tenant SaaS platform (Django · PostgreSQL · Next.js · AWS)
-- 🎓 **BSc (Hons) Computer Science, Data Analytics** — Asia Pacific University & De Montfort University
+- 🔭 **Currently**: building AI features on a multi-tenant SaaS platform (Django · PostgreSQL · Next.js · AWS)
+- 🎓 **BSc (Hons) Computer Science, Data Analytics**: Asia Pacific University & De Montfort University
 - 🌏 **Based in** Kuala Lumpur, Malaysia (GMT+8)
 - 💬 **Ask me about** turning a business question into a query, a dashboard, or a model and knowing which one it needed
 
@@ -15,7 +15,7 @@ My degree is in Computer Science (Data Analytics) and I came into engineering th
 
 | 📊 Data & Analytics | 🤖 AI & Engineering |
 | --- | --- |
-| SQL — joins, window functions, CTEs | Retrieval-Augmented Generation (RAG) |
+| SQL, joins, window functions, CTEs | Retrieval-Augmented Generation (RAG) |
 | Data modelling & warehousing (star schema, OLAP, MDX) | Vector search & embeddings (pgvector) |
 | Dashboards & reporting (Power BI, Tableau) | LLM integration & evaluation harnesses |
 | ETL pipelines & data quality | AI agents and tool calling |
